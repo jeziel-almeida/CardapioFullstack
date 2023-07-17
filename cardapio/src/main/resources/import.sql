@@ -1,0 +1,3 @@
+INSERT INTO foods(title,image,price) VALUES ('Pizza','https://i.pinimg.com/564x/1d/28/c5/1d28c51cfab73dfcd0e3fad6824f4e86.jpg',34);
+INSERT INTO foods(title,image,price) VALUES ('Sanduíche','https://i.pinimg.com/564x/69/0d/74/690d746c5c658d9cda28cf2c112aea8b.jpg',8);
+INSERT INTO foods(title,image,price) VALUES ('Hambúrger','https://i.pinimg.com/564x/2a/7b/13/2a7b130698e4904a75d2791ae0a66cad.jpg',12);
